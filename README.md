@@ -57,6 +57,7 @@ A Tobit regression was first used to measure the increase or decrease in attitud
 Subsequently an OLS regrssion is made to test the outcomes of the Tobit regression and if they are similar will provide a better interpreation of the coefficients. 
 
 4. Summary of the Main Results
+
 ![OLS Regression Results](https://github.com/nicholas-mai/COVID_Vaccination_Master_Thesis/blob/9a25131d1416b16272554bd16aa9635e4219c87a/vaccinationOLSresults.png?raw=true)
 
 Empirical framed message was statisically signitive and effictive, increasing attitudes (final 4 response: benefit, keep getting ill, responsibility, and economy). On average attitude increased by 53% with the empircal message. 
